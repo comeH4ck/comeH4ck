@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @comeH4ck
+- 👋 Hi, I’m @bhat_hacker
 - 👀 I’m interested in pentesting, games, media, portscanning, forensics and others
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on things that will help me build my skills in cyber security
